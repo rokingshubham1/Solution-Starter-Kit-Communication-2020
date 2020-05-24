@@ -1,13 +1,14 @@
 {
   "intents": [
     {
+      
       "intent": "Whythename",
       "examples": [
         {
           "text": "why is covid-19 the name for this disease?"
         },
         {
-          "text": "Why is the disease being called coronavirus disease 2019, COVID-19?"
+          "text": "Why is the disease being called COVID-19?"
         },
         {
           "text": "is corona virus the same as covid-19?"
